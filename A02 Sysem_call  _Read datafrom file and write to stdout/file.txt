@@ -1,0 +1,5 @@
+1. System Call :
+There are two modes in the computer system one is user mode and another is kernel mode. In computer system there are different types of processes that are running on a computer system. When a user runs an application it is said to be in user mode or computer is in user mode.  When there is a requirement of hardware resource, the process sends a request to the kernel to get the process access and then computer enters in kernel mode. These requests are sent by using system call. The computer switches between these two mode frequently. Whenever the task is completed the computer goes back to the user mode from kernel mode. This mode of transition is called context switching.
+
+2. Library Call :
+A Library call is a kind of request to use a specific piece of function that is defined in a programming library. A library file contains code data file, object file that are packed into one file for use. To make a library call, library should be imported first. The library call may be depended on the system call to complete the task.
