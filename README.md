@@ -2,14 +2,14 @@
 
 ## Contents
 
-** System Calls **
+**System Calls**
 
-** Process **
+**Process**
 
-** IPC **
+**IPC**
 
-** Signals **
+**Signals**
 
-** Networking **
+**Networking**
 
-** Threads **
+**Threads**
