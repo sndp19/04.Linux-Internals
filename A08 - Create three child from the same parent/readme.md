@@ -22,8 +22,13 @@ Sample execution:
 ./three_child 
 
 Child 1 with pid 2020 created 
+
 Child 2 with pid 2021 created
+
 Child 3 with pid 2022 created 
+
 Child 2020 is terminated with code 0 
+
 Child 2021 is terminated with code 0 
+
 Child 2022 is terminated with code 0
