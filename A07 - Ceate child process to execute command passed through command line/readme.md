@@ -20,9 +20,15 @@ Requirements:
 
 Sample execution: -
 1. No args passed (Print usage info)
+
 ./exe_child Usage: ./exe_child args...
+
 2. Valid arg. passed
+
 ./exe_child date
+
 This is the CHILD process, with id 11612
+
 Wed Apr  4 13:27:19 IST 2012
+
 Child exited with status 0
